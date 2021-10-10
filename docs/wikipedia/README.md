@@ -1,2 +1,2 @@
-# Making Wikipedia articles more eBook friendly
+# eBook-friendly Wikipedia articles
 Hello, World!
