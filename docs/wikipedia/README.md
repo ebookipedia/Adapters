@@ -1,2 +1,2 @@
-# eBook-friendly Wikipedia articles
+# eBook-friendly Wikipedia mirrors
 Hello, World!
